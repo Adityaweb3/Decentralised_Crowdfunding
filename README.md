@@ -12,6 +12,6 @@ Functions :
 People can send fund to contract 
 List of people and their donated amount is stored in addresstoAmmountFunded and Funders functions. 
 
-I didn't found any data feeds for Eth/Inr in chainlink data feeds so I have used Eth/Usd chainlink data feeds . 
+## I didn't found any chainlink data feeds for Eth/Inr  so I have used Eth/Usd chainlink data feeds . 
 
  
